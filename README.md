@@ -6,7 +6,7 @@ Aspiring Full-Stack Developer passionate about building innovative solutions. I 
 - 🎓 **Computer Science Student** | Passionate about technology and software development
 - 🛠 **Full-Stack Developer** | Java, Spring Boot, React, and Tailwind CSS
 - 🌿 **Learning** | Microservices, JWT, and Google Authentication
-- 📖 **Working On** | Expense Tracker App and RAFCART eCommerce Project
+- 📖 **Working On** | Job App Website and RAFCART eCommerce Project
 - 🚀 **Future Goal** | Become a proficient software engineer and contribute to impactful projects
 
 ## 🧑‍💻 Tech Stack
@@ -18,11 +18,12 @@ Aspiring Full-Stack Developer passionate about building innovative solutions. I 
 - **Other Skills:** REST APIs, Agile Development, Problem Solving
 
 ## 📘 Projects
-- [**RAFCART**](https://github.com/yourusername/rafcart) - A responsive eCommerce site using React, Tailwind CSS, and Context API.
-- **Expense Tracker App** *(In Progress)* - Tracks expenses using Spring Boot and React with automated UPI integration.
+- [**RAFCART**](https://github.com/vaibhav-malode01/rafcart) - A responsive eCommerce site using React, Tailwind CSS, and Context API.
+- [**Job App Website**](https://github.com/vaibhav-malode01/job-app) - A simple CRUD-based application using Spring Boot and React for managing job applications.
 
 ## 📫 Connect with Me
-- **LinkedIn:** linkedin.com/in/vaibhav-malode-076b34240
+- **LinkedIn:** [linkedin.com/in/vaibhav-malode-076b34240](https://linkedin.com/in/vaibhav-malode-076b34240)
+- **GitHub:** [github.com/vaibhav-malode01](https://github.com/vaibhav-malode01)
 - **Email:** vaibhavmalode47@gmail.com
 
 ---
