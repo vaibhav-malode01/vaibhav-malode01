@@ -22,7 +22,7 @@ Aspiring Full-Stack Developer passionate about building innovative solutions. I 
 - **Expense Tracker App** *(In Progress)* - Tracks expenses using Spring Boot and React with automated UPI integration.
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** linkedin.com/in/vaibhav-malode-076b34240
 - **Email:** vaibhavmalode47@gmail.com
 
 ---
