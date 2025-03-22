@@ -26,7 +26,3 @@ Aspiring Full-Stack Developer passionate about building innovative solutions. I 
 - **GitHub:** [github.com/vaibhav-malode01](https://github.com/vaibhav-malode01)
 - **Email:** vaibhavmalode47@gmail.com
 
----
-
-💡 _"Learning never exhausts the mind." - Leonardo da Vinci_
-
