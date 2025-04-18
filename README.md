@@ -19,7 +19,7 @@ Aspiring Full-Stack Developer passionate about building innovative solutions. I 
 
 ## 📘 Projects
 - [**RAFCART**](https://github.com/vaibhav-malode01/rafcart) - A responsive eCommerce site using React, Tailwind CSS, and Context API.
-- [**Job App Website**](https://github.com/vaibhav-malode01/RAFCART) - A simple CRUD-based application using Spring Boot and React for managing job applications.
+- [**Job App Website**](https://github.com/vaibhav-malode01/JobApp) - A simple CRUD-based application using Spring Boot and React for managing job applications.
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/vaibhav-malode-076b34240](https://linkedin.com/in/vaibhav-malode-076b34240)
